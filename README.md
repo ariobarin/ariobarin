@@ -3,15 +3,14 @@
     Hi, my name is
     <a href="https://ariobarin.com/">Ario Barin Ostovary</a>
   </h1>
-  <p>
-    <div style="font-size: 0.8em; margin-top: -1em;">
-      <em>Like Mario, but they say I look more like Luigi</em>
-    </div>
+  <p style="font-size: 0.8em; margin-top: -1em;">
+    <em>Like Mario, but they say I look more like Luigi</em>
   </p>
-
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Doomsy1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
 </div>
 
-![Views Badge](https://hit.yhype.me/github/profile?account_id=89481178)
 
 ## About me
 
