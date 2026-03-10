@@ -4,16 +4,14 @@
     <a href="https://ariobarin.com/">Ario Barin Ostovary</a>
   </h1>
   <p>
-    <div style="font-size: 0.8em; margin-top: -15px;">
-      <em>Like Mario, but they say I look more like Luigi.</em>
+    <div style="font-size: 0.8em; margin-top: -1em;">
+      <em>Like Mario, but they say I look more like Luigi</em>
     </div>
   </p>
 
 </div>
 
-<p align="center">
-  <img src="https://hit.yhype.me/github/profile?account_id=89481178" alt="Profile views" />
-</p>
+![Views Badge](https://hit.yhype.me/github/profile?account_id=89481178)
 
 ## About me
 
