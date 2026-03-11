@@ -6,9 +6,6 @@
   <p style="font-size: 0.8em; margin-top: -1em;">
     <em>Like Mario, but they say I look more like Luigi</em>
   </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Doomsy1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
 </div>
 
 
