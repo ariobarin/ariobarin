@@ -22,6 +22,10 @@ Currently learning more about mechanistic interpretability and generally looking
 
 All of them. 
 
+## More Info
+
+[On my site](https://ariobarin.com)
+
 <div align="center">
     Feel free to contact me!
     <br>
