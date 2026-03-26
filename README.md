@@ -18,6 +18,10 @@ Invested in the future of AI / ML research and development and working towards c
 Currently learning more about mechanistic interpretability and generally looking for harder problems.
 
 
+## More Info
+
+[On my site](https://ariobarin.com)
+
 <div align="center">
     Feel free to contact me!
     <br>
