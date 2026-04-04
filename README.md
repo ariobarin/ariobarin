@@ -30,6 +30,6 @@ Currently learning more about mechanistic interpretability and generally looking
     - <a href="https://ariobarin.com/">Website</a>
     - <a href="https://x.com/ariobarin">X</a>
     - <a href="https://ariobarin.com/r">Resume</a>
-    - <a href="https://devpost.com/Doomsy1">Devpost</a>
+    - <a href="https://devpost.com/ariobarin">Devpost</a>
     - <a href="https://www.instagram.com/ariobarin/">Instagram</a>
 </div>
