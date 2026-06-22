@@ -13,10 +13,7 @@
 
 Software Engineering @ University of Waterloo
 
-Invested in the future of AI / ML research and development and working towards contributing to the field.
-
-Currently learning more about mechanistic interpretability and generally looking for harder problems.
-
+Interested in agents.
 
 ## More Info
 
