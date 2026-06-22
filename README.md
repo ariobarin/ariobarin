@@ -8,12 +8,7 @@
   </p>
 </div>
 
-
-## About me
-
 Software Engineering @ University of Waterloo
-
-Interested in agents.
 
 ## More Info
 
