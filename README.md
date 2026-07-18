@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm [Ario Barin Ostovary](https://ariobarin.com)
+# [Ario Barin Ostovary](https://ariobarin.com)
 
 *Like Mario, but apparently I look more like Luigi.*
+
+---
 
 Software Engineering @ University of Waterloo
 
