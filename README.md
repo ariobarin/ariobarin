@@ -16,4 +16,6 @@ Software Engineering @ University of Waterloo
 [Devpost](https://devpost.com/ariobarin) ·
 [Instagram](https://www.instagram.com/ariobarin/)
 
+<sub>Profile content licensed under [CC-BY-4.0](./LICENSE).</sub>
+
 </div>
