@@ -2,7 +2,7 @@
 
 # [Ario Barin Ostovary](https://ariobarin.com)
 
-*Like Mario, but apparently I look more like Luigi.*
+*Like Mario, but they say I look more like Luigi.*
 
 ---
 
